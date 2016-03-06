@@ -1,3 +1,5 @@
+// Sample example : http://codepen.io/anon/pen/oxjKja
+
 var isEmpty = function(item) {
   return item === null || item === undefined || item.length === 0 || item === "";
 }
